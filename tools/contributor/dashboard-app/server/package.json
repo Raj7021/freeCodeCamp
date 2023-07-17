@@ -47,7 +47,7 @@
     "cross-env": "5.2.1",
     "express": "4.17.2",
     "express-rate-limit": "5.2.3",
-    "mongoose": "5.13.14"
+    "mongoose": "5.13.20"
   },
   "devDependencies": {
     "expect": "23.6.0",
